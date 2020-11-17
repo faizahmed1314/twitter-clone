@@ -10,7 +10,7 @@
 
 .tweetBox__input {
   display: flex;
-  padding: 10px;
+  padding: 20px;
 }
 .tweetBox__input > input {
   flex: 1;
